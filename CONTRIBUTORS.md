@@ -4,3 +4,7 @@
 #### Name: [cybergeekapk] (https://github.com/cybergeekapk)
 -Place: Kerala
 -Bio: Student
+
+#### Name: [chaitanyRajeev] (https://github.com/ChaitanyaRajeev)
+-Place: Hyderabad
+-Bio: Student
